@@ -1,0 +1,3 @@
+	(SELECT AVG(balance) FROM data_table);
+
+Credit: Bro Code YT
